@@ -1,0 +1,20 @@
+Commission for Barnett     $    100,235
+Commission for Mitchell    $     39,980
+Commission for Barton      $     99,966
+Commission for Gutierrez   $     32,900
+Commission for Wong        $     54,902
+Commission for Samson      $      9,810
+Commission for Wilson      $     32,878
+Commission for Klein       $     54,822
+Commission for West        $      9,550
+
+Realtor w/max comm West with $9550
+Realtor w/min comm Barnett with $100235
+
+Number of sales            15
+
+Total sales       $ 4,657,070
+Total commission  $   435,043
+
+Smallest sale     $    95,500
+Largest sale      $   875,200

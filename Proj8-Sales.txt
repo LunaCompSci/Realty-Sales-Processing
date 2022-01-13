@@ -1,0 +1,16 @@
+PropNum,Realtor,Address,Seller,SalesPrice,Comm
+36122,Barnett,128 Butterfield,Davis,$658000,$52640
+41481,Barnett,5327 Montana,Mason,$475950,$47595
+14624,Mitchell,325 Wyoming,Honeycutt,$399800,$39980
+32495,Barton,8945 A Yandell,Ortiz,$299500,$29950
+44095,Barton,498 Westside,Mendez,$875200,$70016
+47223,Gutierrez,7583 Cadiz,Johnson,$329000,$32900
+21515,Wong,913 San Francisco,Garcia,$287500,$28750
+30334,Wong,4518 Polk,Armendariz,$112320,$11232
+24429,Wong,2819 Kentucky,Taylor,$149200,$14920
+26421,Samson,187 Arizona,Gomez,$98100,$9810
+25168,Wilson,14328 Dulce Tierra,Peters,$145500,$14550
+48490,Wilson,3529 Westwind,Stanford,$183280,$18328
+23259,Klein,7685 Geronimo,Alarcon,$119020,$11902
+43586,Klein,14322 Marsh McCall,Castillo,$429200,$42920
+49410,West,128 Rio Grande,Brennan,$95500,$9550
